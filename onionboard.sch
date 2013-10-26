@@ -12130,34 +12130,34 @@ Source: ID4426.pdf</description>
 Block, Siemens and generic&lt;p&gt;
 &lt;author&gt;Created by librarian@cadsoft.de&lt;/author&gt;</description>
 <packages>
-<package name="S20K20">
+<package name="S14K11">
 <description>&lt;b&gt;VARISTOR&lt;/b&gt;</description>
-<wire x1="-1.27" y1="11.303" x2="1.27" y2="11.303" width="0.1524" layer="21"/>
-<wire x1="-1.397" y1="0" x2="-1.397" y2="10.16" width="0.0508" layer="21"/>
-<wire x1="1.397" y1="-10.16" x2="1.397" y2="0" width="0.0508" layer="21"/>
-<wire x1="0.889" y1="-5.08" x2="0.889" y2="0" width="0.0508" layer="21"/>
-<wire x1="-0.889" y1="0" x2="-0.889" y2="5.08" width="0.0508" layer="21"/>
-<wire x1="2.54" y1="-1.905" x2="2.54" y2="4.953" width="0.1524" layer="21"/>
-<wire x1="-2.54" y1="1.905" x2="-2.54" y2="-4.953" width="0.1524" layer="21"/>
-<wire x1="-1.905" y1="-3.937" x2="-1.905" y2="-6.223" width="0.1524" layer="51"/>
-<wire x1="1.905" y1="3.937" x2="1.905" y2="6.223" width="0.1524" layer="51"/>
-<wire x1="-2.54" y1="1.905" x2="-1.905" y2="2.54" width="0.1524" layer="21" curve="-90"/>
-<wire x1="-2.54" y1="-4.953" x2="-1.905" y2="-5.588" width="0.1524" layer="51" curve="90"/>
-<wire x1="1.905" y1="5.588" x2="2.54" y2="4.953" width="0.1524" layer="51" curve="-90"/>
-<wire x1="1.905" y1="-2.54" x2="2.54" y2="-1.905" width="0.1524" layer="21" curve="90"/>
-<wire x1="1.905" y1="-10.668" x2="1.905" y2="3.937" width="0.1524" layer="21"/>
-<wire x1="-1.905" y1="-3.937" x2="-1.905" y2="10.668" width="0.1524" layer="21"/>
-<wire x1="1.27" y1="-11.303" x2="1.905" y2="-10.668" width="0.1524" layer="21" curve="90"/>
-<wire x1="-1.905" y1="-10.668" x2="-1.27" y2="-11.303" width="0.1524" layer="21" curve="90"/>
-<wire x1="-1.905" y1="10.668" x2="-1.27" y2="11.303" width="0.1524" layer="21" curve="-90"/>
-<wire x1="1.27" y1="11.303" x2="1.905" y2="10.668" width="0.1524" layer="21" curve="-90"/>
-<wire x1="-1.27" y1="-11.303" x2="1.27" y2="-11.303" width="0.1524" layer="21"/>
-<wire x1="1.905" y1="6.223" x2="1.905" y2="10.668" width="0.1524" layer="21"/>
-<wire x1="-1.905" y1="-10.668" x2="-1.905" y2="-6.223" width="0.1524" layer="21"/>
-<pad name="1" x="-1.016" y="-5.08" drill="1.1938" shape="long"/>
-<pad name="2" x="1.016" y="5.08" drill="1.1938" shape="long"/>
-<text x="-3.048" y="-9.525" size="1.27" layer="25" ratio="10" rot="R90">&gt;NAME</text>
-<text x="-3.048" y="-2.54" size="1.27" layer="27" ratio="10" rot="R90">&gt;VALUE</text>
+<wire x1="-0.762" y1="8.255" x2="0.762" y2="8.255" width="0.1524" layer="21"/>
+<wire x1="-0.889" y1="0" x2="-0.889" y2="6.985" width="0.0508" layer="21"/>
+<wire x1="0.889" y1="-6.985" x2="0.889" y2="0" width="0.0508" layer="21"/>
+<wire x1="0.508" y1="-2.54" x2="0.508" y2="0" width="0.0508" layer="21"/>
+<wire x1="-0.508" y1="0" x2="-0.508" y2="2.54" width="0.0508" layer="21"/>
+<wire x1="2.032" y1="-1.905" x2="2.032" y2="3.683" width="0.1524" layer="21"/>
+<wire x1="-2.032" y1="1.905" x2="-2.032" y2="-3.683" width="0.1524" layer="21"/>
+<wire x1="-1.397" y1="-2.667" x2="-1.397" y2="-4.953" width="0.1524" layer="51"/>
+<wire x1="1.397" y1="2.667" x2="1.397" y2="4.953" width="0.1524" layer="51"/>
+<wire x1="-2.032" y1="1.905" x2="-1.397" y2="2.54" width="0.1524" layer="21" curve="-90"/>
+<wire x1="-2.032" y1="-3.683" x2="-1.397" y2="-4.318" width="0.1524" layer="51" curve="90"/>
+<wire x1="1.397" y1="4.318" x2="2.032" y2="3.683" width="0.1524" layer="51" curve="-90"/>
+<wire x1="1.397" y1="-2.54" x2="2.032" y2="-1.905" width="0.1524" layer="21" curve="90"/>
+<wire x1="1.397" y1="-7.62" x2="1.397" y2="2.667" width="0.1524" layer="21"/>
+<wire x1="-1.397" y1="-2.667" x2="-1.397" y2="7.62" width="0.1524" layer="21"/>
+<wire x1="0.762" y1="-8.255" x2="1.397" y2="-7.62" width="0.1524" layer="21" curve="90"/>
+<wire x1="-1.397" y1="-7.62" x2="-0.762" y2="-8.255" width="0.1524" layer="21" curve="90"/>
+<wire x1="-1.397" y1="7.62" x2="-0.762" y2="8.255" width="0.1524" layer="21" curve="-90"/>
+<wire x1="0.762" y1="8.255" x2="1.397" y2="7.62" width="0.1524" layer="21" curve="-90"/>
+<wire x1="-0.762" y1="-8.255" x2="0.762" y2="-8.255" width="0.1524" layer="21"/>
+<wire x1="1.397" y1="4.953" x2="1.397" y2="7.62" width="0.1524" layer="21"/>
+<wire x1="-1.397" y1="-7.62" x2="-1.397" y2="-4.953" width="0.1524" layer="21"/>
+<pad name="1" x="-0.762" y="-3.81" drill="1.016" shape="long"/>
+<pad name="2" x="0.762" y="3.81" drill="1.016" shape="long"/>
+<text x="-2.413" y="-6.477" size="1.27" layer="25" ratio="10" rot="R90">&gt;NAME</text>
+<text x="-2.413" y="-0.381" size="1.27" layer="27" ratio="10" rot="R90">&gt;VALUE</text>
 </package>
 <package name="S07K11">
 <description>&lt;b&gt;VARISTOR&lt;/b&gt;</description>
@@ -12221,13 +12221,13 @@ Block, Siemens and generic&lt;p&gt;
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="S20K20" prefix="R">
+<deviceset name="S14K11" prefix="R">
 <description>&lt;b&gt;VARISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="VDR" x="0" y="0"/>
 </gates>
 <devices>
-<device name="" package="S20K20">
+<device name="" package="S14K11">
 <connects>
 <connect gate="G$1" pin="1" pad="1"/>
 <connect gate="G$1" pin="2" pad="2"/>
@@ -13057,7 +13057,7 @@ Source: &lt;a href="http://www.molex.com/pdm_docs/sd/039307025_sd.pdf"&gt;http:/
 <part name="R38" library="resistor" deviceset="R-EU_" device="M0805" value="100k"/>
 <part name="R39" library="resistor" deviceset="R-EU_" device="M0805" value="100k"/>
 <part name="R40" library="resistor" deviceset="R-EU_" device="M0805" value="100k"/>
-<part name="R41" library="varistor" deviceset="S20K20" device=""/>
+<part name="R41" library="varistor" deviceset="S14K11" device=""/>
 <part name="R42" library="varistor" deviceset="S07K11" device=""/>
 <part name="R43" library="varistor" deviceset="S07K11" device=""/>
 <part name="IC3" library="v-reg" deviceset="78XXL" device="" value="LM2940"/>
